@@ -7,5 +7,5 @@ Pasos de Instalación:
 
 Para acceder al proyecto las credenciales de siempre
 
-Usuario configuroweb
-Contraseña 1234abcd..
+Usuario Tabares
+Contraseña 1234abcd

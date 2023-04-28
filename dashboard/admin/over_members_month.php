@@ -7,12 +7,13 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Miembros por Mes</title>
+    <title>Tabares | Miembros por Mes</title>
      <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
     <link rel="stylesheet" type="text/css" href="../../css/entypo.css">
 	<link href="a1style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="../../css/tablestylemounth.css">
      <style>
     	.page-container .sidebar-menu #main-menu li#overviewhassubopen > a {
     	background-color: #2b303a;
@@ -33,7 +34,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -131,7 +132,7 @@ page_protect();
 
 </form>
 
-<table id="memmonth" border=1>
+<table id="memmonth">
 	
 </table>
 

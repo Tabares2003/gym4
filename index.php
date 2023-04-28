@@ -11,7 +11,7 @@ if(isset($_SESSION["user_data"]))
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ConfiguroWeb | GYM</title>
+	<title>Tabares | GYM</title>
 	<link rel="stylesheet" href="./css/style.css"/>
 	<link rel="stylesheet" type="text/css" href="./css/entypo.css">
 </head>
@@ -26,10 +26,10 @@ if(isset($_SESSION["user_data"]))
 		<div class="login-content">
 			
 			<a href="#" class="logo">
-				<img src="./images/logo.png" alt="" />
+				<img src="./images/perfil3-copia.png" alt="" />
 			</a>
 			
-			<p class="description">ConfiguroWeb | GYM</p>
+			<p class="description">Tabares | GYM</p>
 			
 			<!-- progress bar indicator -->
 			<div class="login-progressbar-indicator">

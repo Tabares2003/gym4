@@ -10,12 +10,14 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Ver Rutina</title>
+    <title>Tabares | Ver Rutina</title>
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
     <link rel="stylesheet" type="text/css" href="../../css/entypo.css">
 	<link href="a1style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="../../css/tablestyleditroutine.css">
+
 	<style>
 	#boxxe
 	{
@@ -40,7 +42,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -96,7 +98,7 @@ page_protect();
 		<table class="table table-bordered datatable" id="table-1" border=1>
 			
 				<tr>
-					<th>Sl.No</th>
+					<th>N°</th>
 					<th>Nombre de Rutina</th>
 					<th>Detalles Rutina</th>
 					<th>Eliminar Rutina</th>

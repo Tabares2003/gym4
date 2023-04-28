@@ -21,7 +21,7 @@ $uid=$_GET['id'];
 <html>
 <head>
 <meta charset="utf-8">
-<title>Titan Gym</title>
+<title>Tabares</title>
 <style>
 
 
@@ -55,8 +55,8 @@ line-height:0.5cm;
 							
 <table id =space width="760" height="397" border="0" align="center">
   <tr>
-    <td width="222" height="198"><img src="logo.png" width="114" height="115"  alt=""/></td>
-    <td width="317"><p><strong>ConfiguroWeb | GYM</strong></p>
+    <td width="222" height="198"><img src="../../images/perfil3-copia.png" width="114" height="115"  alt=""/></td>
+    <td width="317"><p><strong>Tabares | GYM</strong></p>
 </td>
     <td height="198"><p>No de Serie : <?php echo $row['et_id'] ?></p>
       <p>&nbsp;</p>

@@ -27,7 +27,7 @@ if (isset($_POST['userID']) && isset($_POST['planID'])) {
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Make Payment</title>
+    <title>Tabares | Make Payment</title>
      <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
@@ -55,7 +55,7 @@ if (isset($_POST['userID']) && isset($_POST['planID'])) {
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -88,12 +88,12 @@ if (isset($_POST['userID']) && isset($_POST['planID'])) {
 						
 						<ul class="list-inline links-list pull-right">
 
-							<li>Welcome <?php echo $_SESSION['full_name']; ?> 
+							<li>Bienvenido <?php echo $_SESSION['full_name']; ?> 
 							</li>								
 						
 							<li>
 								<a href="logout.php">
-									Log Out <i class="entypo-logout right"></i>
+									Cerrar Sesion <i class="entypo-logout right"></i>
 								</a>
 							</li>
 						</ul>

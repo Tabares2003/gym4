@@ -7,7 +7,7 @@ page_protect();
 <head> 
 
     
-    <title>ConfiguroWeb GYM | Panel de Control </title>
+    <title>Tabares | Panel de Control </title>
 
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
@@ -33,7 +33,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -79,7 +79,7 @@ page_protect();
 					
 				</div>
 
-			<h2>ConfiguroWeb GYM | Panel de Control</h2>
+			<h2>Tabares | Panel de Control</h2>
 
 			<hr>
 

@@ -8,7 +8,7 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Cambio de Contraseña</title>
+    <title>Tabares | Cambio de Contraseña</title>
      <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
@@ -38,7 +38,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			

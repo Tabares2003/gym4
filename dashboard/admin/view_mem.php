@@ -7,12 +7,13 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Vista de Miembro</title>
+    <title>Tabares | Vista de Miembro</title>
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
     <link rel="stylesheet" type="text/css" href="../../css/entypo.css">
 	<link href="a1style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="../../css/tablestylepays.css">
 	
 	<style>
  	#button1
@@ -39,7 +40,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -90,10 +91,10 @@ page_protect();
 
 		<hr />
 		
-		<table class="table table-bordered datatable" id="table-1" border=1>
+		<table class="table table-bordered datatable" id="table-1">
 			<thead>
 				<tr><h2>
-					<th>Sl.No</th>
+					<th>N°</th>
 					<th>Fecha de Expiración</th>
 					<th>ID Miembro</th>
 					<th>Nombre</th>

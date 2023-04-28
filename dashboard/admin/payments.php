@@ -8,12 +8,16 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Payments</title>
+    <title>Tabares | Payments</title>
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
     <link rel="stylesheet" type="text/css" href="../../css/entypo.css">
     <link href="a1style.css" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../../css/tablestylepays.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap" rel="stylesheet">
     <style>
     	.page-container .sidebar-menu #main-menu li#paymnt > a {
     	background-color: #2b303a;
@@ -34,7 +38,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -84,10 +88,10 @@ page_protect();
 
 		<hr />
 		
-		<table class="table table-bordered datatable" id="table-1" border=1>
+		<table class="table table-bordered datatable" id="table-1">
 			<thead>
 				<tr>
-					<th>Sl.No</th>
+					<th>N°</th>
 					<th>Fecha de Expiración</th>
 					<th>Nombre</th>
 					<th>ID de Miembro</th>

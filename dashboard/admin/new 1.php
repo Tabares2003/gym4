@@ -8,7 +8,7 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Payments</title>
+    <title>Tabares | Payments</title>
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
@@ -27,7 +27,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -59,12 +59,12 @@ page_protect();
 						
 						<ul class="list-inline links-list pull-right">
 
-							<li>Welcome <?php echo $_SESSION['full_name']; ?> 
+							<li>Bienvenido <?php echo $_SESSION['full_name']; ?> 
 							</li>								
 						
 							<li>
 								<a href="logout.php">
-									Log Out <i class="entypo-logout right"></i>
+									Cerrar Sesion <i class="entypo-logout right"></i>
 								</a>
 							</li>
 						</ul>
@@ -81,7 +81,7 @@ page_protect();
 			<table border='0' WIDTH='90%' align="center"  id="table-1">
 						
 						<tr>
-<td WIDTH='6%' style="color:darkgreen"><b><u>SL.NO</u></b></td>
+<td WIDTH='6%' style="color:darkgreen"><b><u>N°</u></b></td>
 <TD style="color:darkgreen" WIDTH='10%'><b><u>MEMBERSHIP EXPIRY</u></b></TD>
 <TD style="color:darkgreen" WIDTH='7%'><b><u>NAME </u></b></TD>
                             <TD style="color:darkgreen" WIDTH='6%'><b><u>MEMBER ID</u></b></TD>

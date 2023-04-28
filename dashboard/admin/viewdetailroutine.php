@@ -8,7 +8,7 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb | Detalles de Rutina</title>
+    <title>Tabares | Detalles de Rutina</title>
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
@@ -50,7 +50,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -112,7 +112,7 @@ page_protect();
 		<div id=print>
 		<table width="619" height="673" border="1" align="center">
   <tr>
-    <td height="87" colspan="2">Nombre de la Rutina:<?php echo $row['tname'] ?> &ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;<span align="right"> <img src="logo.png" width="121" height="114"  alt=""/></span></td>
+    <td height="87" colspan="2">Nombre de la Rutina:<?php echo $row['tname'] ?> &ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;<span align="right"> <img src="../../images/perfil3-copia.png" width="121" height="114"  alt=""/></span></td>
     </tr>
   <tr>
     <td width="186" height="103">Día 1:</td>

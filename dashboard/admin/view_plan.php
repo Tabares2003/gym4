@@ -8,12 +8,13 @@ page_protect();
 <html lang="en">
 <head>
 
-    <title>ConfiguroWeb| Ver Plan</title>
+    <title>Tabares | Ver Plan</title>
     <link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
     <link rel="stylesheet" type="text/css" href="../../css/entypo.css">
 	<link href="a1style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="../../css/tablestylepays.css">
 	<style>
  		#button1
 		{
@@ -36,7 +37,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -86,11 +87,11 @@ page_protect();
 
 		<hr />
 
-		<table class="table table-bordered datatable" id="table-1" border=1>
+		<table class="table table-bordered datatable" id="table-1">
 
 			<thead>
 				<tr>
-					<th>S.No</th>
+					<th>N°</th>
 					<th>ID de Plan</th>
 					<th>Nombre del Plan</th>
 					<th>Detalles de Plan</th>
@@ -122,7 +123,7 @@ page_protect();
 					        
 					        $sno++;
 					        
-					        echo '<td><a href=edit_plan.php?id="'.$row['pid'].'"><input type="button" class="a1-btn a1-blue" id="boxxe" style="width:100%" value="Editar Plan" ></a><form action="del_plan.php" method="post" onSubmit="return ConfirmDelete();"><input type="hidden" name="name" value="' . $msgid .'"/><input type="submit" id="button1" value="Eliminar Plan" class="a1-btn a1-orange"/></form></td></tr>';
+					        echo '<td><a href=edit_plan.php?id="'.$row['pid'].'"><input type="button" class="a1-btn a1-blue" id="boxxe" style="width: 126px;" value="Editar Plan" ></a><form action="del_plan.php" method="post" onSubmit="return ConfirmDelete();"><input type="hidden" name="name" value="' . $msgid .'"/><input type="submit" id="button1" value="Eliminar Plan" class="a1-btn a1-orange"/></form></td></tr>';
 					        
 							$msgid = 0;
 					    }

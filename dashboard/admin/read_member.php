@@ -10,12 +10,14 @@ page_protect();
 <html lang="es">
 <head>
 
-    <title>ConfiguroWeb | Historial de Miembro</title>
+    <title>Tabares | Historial de Miembro</title>
    	<link rel="stylesheet" href="../../css/style.css"  id="style-resource-5">
     <script type="text/javascript" src="../../js/Script.js"></script>
     <link rel="stylesheet" href="../../css/dashMain.css">
     <link rel="stylesheet" type="text/css" href="../../css/entypo.css">
-<link href="a1style.css" rel="stylesheet" type="text/css">     
+<link href="a1style.css" rel="stylesheet" type="text/css">    
+<link rel="stylesheet" type="text/css" href="../../css/tablestylermember.css">
+
     <style>
     	.page-container .sidebar-menu #main-menu li#hassubopen > a {
     	background-color: #2b303a;
@@ -37,7 +39,7 @@ page_protect();
 			<!-- logo -->
 			<div class="logo">
 				<a href="main.php">
-					<img src="../../images/logo.png" alt="" width="192" height="80" />
+					<img src="../../images/perfil3-copia.png" alt="" width="192" height="80" />
 				</a>
 			</div>
 			
@@ -147,7 +149,7 @@ page_protect();
 		<table border=1>
 			<thead>
 				<tr>
-					<th>Sl.No</th>
+					<th>N°</th>
 					<th>Nombre de Plan</th>
 					<th>Descuento de Plan</th>
 					<th>Validez</th>
